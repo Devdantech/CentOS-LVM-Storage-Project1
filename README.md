@@ -1,6 +1,6 @@
 # My LVM Project
 
-![Step 1](images/1.png)  
+![Step 1](/1.png)  
 Create a virtual machine using VirtualBox, and apply your configurations
 
 ![Step 3](images/4.png)  
